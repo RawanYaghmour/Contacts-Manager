@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts-Manager", "Contacts-Manager\Contacts-Manager.csproj", "{16A7605A-C0B8-4C51-A404-01111DE6A016}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts-Manager-Test", "Contacts-Manager-Test\Contacts-Manager-Test.csproj", "{3C734C29-D5C5-4135-8503-81A4EFB5DCB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{16A7605A-C0B8-4C51-A404-01111DE6A016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16A7605A-C0B8-4C51-A404-01111DE6A016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16A7605A-C0B8-4C51-A404-01111DE6A016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C734C29-D5C5-4135-8503-81A4EFB5DCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C734C29-D5C5-4135-8503-81A4EFB5DCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C734C29-D5C5-4135-8503-81A4EFB5DCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C734C29-D5C5-4135-8503-81A4EFB5DCB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
